@@ -1,0 +1,8 @@
+{
+  "startUrl": "",
+  "startPath": "/businesses-for-sale",
+  "maxPages": 2,
+  "delaySeconds": 1.5,
+  "outputFile": "data/website-closers-listings.json",
+  "proxies": null
+}
